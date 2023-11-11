@@ -8,6 +8,13 @@
     grid-template-columns: repeat(2,1fr);
     gap: 2rem;
 }
+.heroSection_box_lright{
+    overflow: hidden;
+}
+.heroSection_box_right img{
+    width: 100%;
+    object-fit: contain;
+}
 .heroSection_box_left{
     padding: 6rem;
 }
